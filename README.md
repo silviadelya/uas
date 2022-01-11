@@ -2,7 +2,7 @@
 
 ## Struktur Package dan Modul
 
-![Gambar 1](screenshot/awal.png)
+![pict 1](screenshot/awal.png)
 
 ## Penjelasan
 
@@ -31,7 +31,7 @@
 
 ## Output Tambah Data
 
-![Gambar 2](screenshot/tambah.png)
+![pict 2](screenshot/tambah.png)
 
 ## Ubah Data
 
@@ -58,7 +58,7 @@
 
 ## Output Ubah Data
 
-![Gambar 3](screenshot/ubah.png)
+![pict 3](screenshot/ubah.png)
 
 ## Hapus Data
 
@@ -80,9 +80,9 @@
 
 ## Output Hapus Data
 
-![Gambar 4](screenshot/hapus.png)
+![pict 4](screenshot/hapus.png)
 
-![Gambar 5](screenshot/hapus-1.png)
+![pict 5](screenshot/hapus-1.png)
 
 ## Cari Data
 
@@ -105,7 +105,7 @@
 
 ## Output Cari Data
 
-![Gambar 6](screenshot/cari.png)
+![pict 6](screenshot/cari.png)
 
 >view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian
 
@@ -133,7 +133,7 @@
 
 ## Output Lihat Data
 
-![Gambar 7](screenshot/lihat.png)
+![pict 7](screenshot/lihat.png)
 
 ## Melihat Hasil Pencarian
 
