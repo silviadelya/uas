@@ -1,4 +1,4 @@
-# UAS - Pemrograman
+# UAS Pemrograman
 
 ## Struktur Package dan Modul
 
