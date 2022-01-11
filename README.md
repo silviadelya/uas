@@ -222,4 +222,4 @@ def uas_input():
         break
 ```
 
-## Sekian Terima kasih
+## Sekian Terimakasih
